@@ -24,7 +24,7 @@ export type Payee = {
 }
 
 export const ACCOUNT = {
-  holder: 'MS JAYANTI DEVI ',
+  holder: ' JAYANTI DEVI ',
   number: 'XXXX XXXX 0676',
   fullNumber: '7145020100000676',
   customerId: '50315533',
